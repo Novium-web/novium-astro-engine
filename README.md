@@ -1,4 +1,4 @@
-# Novium Astro Engine ⚡
+# Novium Astro Engine
 
 ![Astro](https://img.shields.io/badge/Astro-FF7A59?style=flat&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
